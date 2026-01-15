@@ -1,4 +1,4 @@
-ZBOSS NCP Serial Protocol implementation for ESP32-C6/H2 module.
+ZBOSS NCP Serial Protocol implementation for ESP32-C6/H2 module. 
 
 This implementation functional limited to coordinator role for usage with [zigbee2mqtt](https://www.zigbee2mqtt.io).
 
